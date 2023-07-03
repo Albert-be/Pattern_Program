@@ -16,6 +16,7 @@ public class Pattern_Program1 {
 					System.out.print("*");
 				}
 				System.out.println();
+				//System.out.println();
 			}
 
 		}
